@@ -128,7 +128,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  max-width: 1040px;
+  max-width: 1160px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -143,8 +143,8 @@ body {
 .inner {
   display: inline;
   float: left;
-  width: 98.03921568627449%;
-  margin: 0 0.9803921568627%;
+  width: 98.2456140350877%;
+  margin: 0 0.8771929824561%;
 }
 .left,
 .alignleft {
@@ -184,8 +184,8 @@ body {
   #main {
     display: inline;
     float: left;
-    width: 73.03921568627449%;
-    margin: 0 0.9803921568627%;
+    width: 73.2456140350877%;
+    margin: 0 0.8771929824561%;
   }
 }
 .article-date,
@@ -1290,8 +1290,8 @@ pre .chunk {
   #sidebar {
     display: inline;
     float: left;
-    width: 23.0392156862745%;
-    margin: 0 0.9803921568627%;
+    width: 23.2456140350877%;
+    margin: 0 0.8771929824561%;
   }
 }
 .widget-wrap {
